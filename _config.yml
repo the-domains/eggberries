@@ -1,0 +1,28 @@
+name: eggberries
+favicon: null
+layout_spectrum: 0.20148357725702226
+typography_spectrum: 0.9053864891175181
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.061321160988882184
+  lightness: 0.6650485515128821
+  saturation: 0.6711639941204339
+  rhythmicContrast: 0.15875294129364192
+purpose: []
