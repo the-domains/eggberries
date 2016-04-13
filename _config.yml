@@ -1,6 +1,6 @@
 name: eggberries
 favicon: null
-layout_spectrum: 0.20148357725702226
+layout_spectrum: 0.49287
 typography_spectrum: 0.9053864891175181
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.061321160988882184
+  brandStrength: 0.5
   lightness: 0.6650485515128821
   saturation: 0.6711639941204339
   rhythmicContrast: 0.15875294129364192
