@@ -1,4 +1,4 @@
-name: eggberries
+name: Egg Berries
 favicon: null
 layout_spectrum: 0.5025
 typography_spectrum: 0.9053864891175181
@@ -22,8 +22,8 @@ color:
     - '#776768'
     - '#eae8e9'
     - '#c7c4bf'
-  brandStrength: 0.5
+  brandStrength: 0.1875
   lightness: 0.6650485515128821
   saturation: 0.6711639941204339
-  rhythmicContrast: 0.15875294129364192
+  rhythmicContrast: 0.75
 purpose: []
