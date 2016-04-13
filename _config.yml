@@ -2,6 +2,7 @@ name: eggberries
 favicon: null
 layout_spectrum: 0.5025
 typography_spectrum: 0.9053864891175181
+title: eggberries
 cta:
   domain: null
   bucket: null
