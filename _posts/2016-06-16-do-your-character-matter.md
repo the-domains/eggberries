@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: egg berries
-datePublished: '2016-06-16T22:51:19.263Z'
-dateModified: '2016-06-16T22:49:21.116Z'
+datePublished: '2016-06-16T23:01:12.420Z'
+dateModified: '2016-06-16T23:01:06.937Z'
 title: ''
 author:
   - name: ''
@@ -14,7 +14,7 @@ author:
 sourcePath: _posts/2016-06-16-do-your-character-matter.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: do-your-character-matter/index.html
 _type: Article
 
