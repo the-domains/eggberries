@@ -1,5 +1,8 @@
+name: Egg Berries
+favicon: null
+layout_spectrum: 0.0006
+typography_spectrum: 0.80796
 title: The Only Standard For Gentleman
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.9462366
-  brandStrength: 0.1875
-  lightness: 0.4014337
-  brandColors:
-    - '#0e111a'
-    - '#e9e8e3'
-    - '#3b4963'
-    - '#792600'
-    - '#a04f18'
-  rhythmicContrast: 0.5053763
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 analytics:
-  twitter: null
   google: null
   facebook: null
-favicon: null
-name: Egg Berries
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.9053864891175181
-layout_spectrum: 1
+color:
+  brandColors:
+    - '#2d2d2d'
+    - '#e4e4e4'
+    - '#656565'
+    - '#a2a2a2'
+    - '#828282'
+  brandStrength: 0.1875
+  lightness: 0.4014337
+  saturation: 0.9462366
+  rhythmicContrast: 0.5053763
+purpose: []
