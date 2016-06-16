@@ -5,14 +5,16 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Do your character matter?
-datePublished: '2016-06-16T20:36:15.767Z'
-dateModified: '2016-06-16T20:35:42.220Z'
+datePublished: '2016-06-16T20:39:05.661Z'
+dateModified: '2016-06-16T20:36:21.008Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-06-16-do-your-character-matter.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-16-do-your-character-matter.md
 url: do-your-character-matter/index.html
 _type: Article
 
