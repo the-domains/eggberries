@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Do your character matter?
-datePublished: '2016-06-16T20:41:23.551Z'
-dateModified: '2016-06-16T20:41:15.794Z'
+datePublished: '2016-06-16T20:41:32.902Z'
+dateModified: '2016-06-16T20:41:30.572Z'
 title: ''
 author:
   - name: ''
