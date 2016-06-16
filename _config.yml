@@ -2,7 +2,7 @@ name: Egg Berries
 favicon: null
 layout_spectrum: 0.0006
 typography_spectrum: 0.80796
-title: egg berries
+title: null
 collections:
   - index:
       path: /
