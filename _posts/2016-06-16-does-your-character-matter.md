@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Does your character matter? '
-datePublished: '2016-06-16T19:21:00.340Z'
-dateModified: '2016-06-16T19:20:45.416Z'
+datePublished: '2016-06-16T19:22:44.143Z'
+dateModified: '2016-06-16T19:22:33.338Z'
 title: egg berries
 author:
   - name: ''
@@ -20,4 +20,4 @@ _type: Article
 
 ---
 # egg berries
-![Does your character matter? ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f292d015-acdf-42a8-a887-09795d2f96f3.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f292d015-acdf-42a8-a887-09795d2f96f3.jpg)
