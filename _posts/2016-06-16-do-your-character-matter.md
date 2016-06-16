@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'egg berries '
-datePublished: '2016-06-16T22:47:30.582Z'
-dateModified: '2016-06-16T22:47:20.118Z'
+description: egg berries
+datePublished: '2016-06-16T22:49:16.855Z'
+dateModified: '2016-06-16T22:47:37.722Z'
 title: ''
 author:
   - name: ''
