@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Do your character matter?
-datePublished: '2016-06-16T20:41:32.902Z'
-dateModified: '2016-06-16T20:41:30.572Z'
+datePublished: '2016-06-16T20:42:30.143Z'
+dateModified: '2016-06-16T20:42:27.693Z'
 title: ''
 author:
   - name: ''
@@ -22,8 +22,8 @@ _type: Article
 Do your character matter?
 
 We think it does.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6dbf4ca2-58a7-434e-9e73-58c662649f4f.jpg)
 
 # egg berries
 
 The Only Standard For Gentleman
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6dbf4ca2-58a7-434e-9e73-58c662649f4f.jpg)
